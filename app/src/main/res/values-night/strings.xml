@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">games</string>
+    <string name="welcome">Welcome!</string>
+    <string name="login">Login</string>
+    <string name="description">"With our app it will be much easier and more fun to keep track of your games! "</string>
+    <string name="remember">Lembrar-me</string>
+    <string name="your_email">Your e-mail</string>
+    <string name="your_password">Your password</string>
+    <string name="enter">Enter</string>
+    <string name="developed">Developed by DS2M</string>
+    <string name="new_account">Criar uma conta</string>
+    <string name="account">New account</string>
+    <string name="games">Games</string>
+    <string name="escolher_foto">Shall we choose a photo?</string>
+    <string name="dados_autenticacao">Authentication data</string>
+    <string name="dados_pessoais">Personal dates</string>
+</resources>
