@@ -15,4 +15,13 @@
     <string name="escolher_foto">Shall we choose a photo?</string>
     <string name="dados_autenticacao">Authentication data</string>
     <string name="dados_pessoais">Personal dates</string>
+    <string name="your_name_question">What is your name?</string>
+    <string name="your_city_question">What is your city?</string>
+    <string name="birth_date_question">What is your birth date?</string>
+    <string name="player_level_question">What is your player level?</string>
+    <string name="casual">Casual</string>
+    <string name="preferred_console_question">What is your preferred console?</string>
+    <string name="sex">Sexo:</string>
+    <string name="sex_masculine">Masculine</string>
+    <string name="sex_feminine">Feminine</string>
 </resources>
