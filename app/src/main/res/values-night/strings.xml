@@ -24,4 +24,13 @@
     <string name="sex">Sex:</string>
     <string name="sex_masculine">Masculine</string>
     <string name="sex_feminine">Feminine</string>
+    <string name="games_finished">Games Finished</string>
+    <string name="currently_playing">Currently Playing</string>
+    <string name="age">Age</string>
+    <string name="name_profile" />
+    <string name="name_profile_games">Larissa Nunes</string>
+    <string name="email_games_profile">larissanunes@senai.com</string>
+    <string name="nivel_profile" />
+    <string name="nivel_exibido_profile">Nivel Exibido</string>
+    <string name="jogos_cadastrados">Seus Jogos Cadastrados</string>
 </resources>
